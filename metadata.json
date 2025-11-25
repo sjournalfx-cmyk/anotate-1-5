@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Forex Live Annotate ",
+  "description": "A collaborative trading whiteboard with Dynamic Island style audio spaces powered by Gemini Live API.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
